@@ -1,0 +1,19 @@
+{
+  "name": "package-json-no-required-by",
+  "version": "0.1.0",
+  "description": "Just a test repo for ensuring `npm i --no-save` will give coverage to `license-badger` with `!pkg.package._requiredBy`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettz9/package-json-no-required-by.git"
+  },
+  "author": "Brett Zamir <brettz9@yahoo.com> (http://brett-zamir.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brettz9/package-json-no-required-by/issues"
+  },
+  "homepage": "https://github.com/brettz9/package-json-no-required-by#readme"
+}
